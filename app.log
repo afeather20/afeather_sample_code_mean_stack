@@ -1,0 +1,144 @@
+2019-07-07T05:44:16.285Z - info: [0mGET / [32m200 [0m37.613 ms - -[0m
+
+2019-07-07T05:44:16.303Z - info: [0mGET /lib/bootstrap/dist/css/bootstrap-theme.css [32m200 [0m8.790 ms - -[0m
+
+2019-07-07T05:44:16.311Z - info: [0mGET /lib/bootstrap/dist/css/bootstrap.css [32m200 [0m12.685 ms - -[0m
+
+2019-07-07T05:44:16.313Z - info: [0mGET /lib/angular-ui-notification/dist/angular-ui-notification.css [32m200 [0m7.874 ms - -[0m
+
+2019-07-07T05:44:16.315Z - info: [0mGET /modules/chat/client/css/chat.css [32m200 [0m2.729 ms - 267[0m
+
+2019-07-07T05:44:16.317Z - info: [0mGET /modules/core/client/css/core.css [32m200 [0m1.295 ms - 758[0m
+
+2019-07-07T05:44:16.318Z - info: [0mGET /modules/users/client/css/users.css [32m200 [0m1.187 ms - 538[0m
+
+2019-07-07T05:44:16.352Z - info: [0mGET /lib/angular-animate/angular-animate.js [32m200 [0m1.082 ms - -[0m
+
+2019-07-07T05:44:16.382Z - info: [0mGET /lib/angular-bootstrap/ui-bootstrap-tpls.js [32m200 [0m1.411 ms - -[0m
+
+2019-07-07T05:44:16.393Z - info: [0mGET /lib/ng-file-upload/ng-file-upload.js [32m200 [0m0.632 ms - -[0m
+
+2019-07-07T05:44:16.397Z - info: [0mGET /lib/angular-messages/angular-messages.js [32m200 [0m0.729 ms - -[0m
+
+2019-07-07T05:44:16.407Z - info: [0mGET /lib/angular-mocks/angular-mocks.js [32m200 [0m0.705 ms - -[0m
+
+2019-07-07T05:44:16.412Z - info: [0mGET /lib/angular-resource/angular-resource.js [32m200 [0m1.213 ms - -[0m
+
+2019-07-07T05:44:16.414Z - info: [0mGET /lib/angular-ui-notification/dist/angular-ui-notification.js [32m200 [0m0.716 ms - -[0m
+
+2019-07-07T05:44:16.432Z - info: [0mGET /lib/angular-ui-router/release/angular-ui-router.js [32m200 [0m1.091 ms - -[0m
+
+2019-07-07T05:44:16.434Z - info: [0mGET /lib/owasp-password-strength-test/owasp-password-strength-test.js [32m200 [0m0.885 ms - -[0m
+
+2019-07-07T05:44:16.436Z - info: [0mGET /modules/core/client/app/config.js [32m200 [0m0.737 ms - -[0m
+
+2019-07-07T05:44:16.438Z - info: [0mGET /modules/core/client/app/init.js [32m200 [0m0.713 ms - -[0m
+
+2019-07-07T05:44:16.440Z - info: [0mGET /modules/articles/client/articles.client.module.js [32m200 [0m0.817 ms - 480[0m
+
+2019-07-07T05:44:16.442Z - info: [0mGET /modules/chat/client/chat.client.module.js [32m200 [0m0.680 ms - 178[0m
+
+2019-07-07T05:44:16.444Z - info: [0mGET /modules/core/client/core.client.module.js [32m200 [0m0.593 ms - 259[0m
+
+2019-07-07T05:44:16.446Z - info: [0mGET /modules/users/client/users.client.module.js [32m200 [0m1.465 ms - 395[0m
+
+2019-07-07T05:44:16.448Z - info: [0mGET /modules/articles/client/config/articles-admin.client.config.js [32m200 [0m0.810 ms - 361[0m
+
+2019-07-07T05:44:16.449Z - info: [0mGET /lib/angular/angular.js [32m200 [0m1.726 ms - -[0m
+
+2019-07-07T05:44:16.450Z - info: [0mGET /modules/articles/client/config/articles-admin.client.routes.js [32m200 [0m1.324 ms - -[0m
+
+2019-07-07T05:44:16.451Z - info: [0mGET /modules/articles/client/config/articles.client.menus.js [32m200 [0m0.978 ms - 520[0m
+
+2019-07-07T05:44:16.454Z - info: [0mGET /modules/articles/client/config/articles.client.routes.js [32m200 [0m0.910 ms - -[0m
+
+2019-07-07T05:44:16.455Z - info: [0mGET /modules/articles/client/controllers/admin/article.client.controller.js [32m200 [0m0.857 ms - -[0m
+
+2019-07-07T05:44:16.458Z - info: [0mGET /modules/articles/client/controllers/admin/list-articles.client.controller.js [32m200 [0m1.225 ms - 361[0m
+
+2019-07-07T05:44:16.459Z - info: [0mGET /modules/articles/client/controllers/articles.client.controller.js [32m200 [0m2.463 ms - 385[0m
+
+2019-07-07T05:44:16.464Z - info: [0mGET /modules/articles/client/controllers/list-articles.client.controller.js [32m200 [0m4.240 ms - 332[0m
+
+2019-07-07T05:44:16.465Z - info: [0mGET /modules/articles/client/services/articles.client.service.js [32m200 [0m1.549 ms - -[0m
+
+2019-07-07T05:44:16.466Z - info: [0mGET /modules/chat/client/config/chat.client.menus.js [32m200 [0m3.490 ms - 309[0m
+
+2019-07-07T05:44:16.469Z - info: [0mGET /modules/chat/client/config/chat.client.routes.js [32m200 [0m2.102 ms - 488[0m
+
+2019-07-07T05:44:16.469Z - info: [0mGET /modules/core/client/config/core-admin.client.menus.js [32m200 [0m1.823 ms - 336[0m
+
+2019-07-07T05:44:16.470Z - info: [0mGET /modules/chat/client/controllers/chat.client.controller.js [32m200 [0m1.506 ms - -[0m
+
+2019-07-07T05:44:16.472Z - info: [0mGET /modules/core/client/config/core-admin.client.routes.js [32m200 [0m1.865 ms - 404[0m
+
+2019-07-07T05:44:16.473Z - info: [0mGET /modules/core/client/config/core.client.menus.js [32m200 [0m2.228 ms - 947[0m
+
+2019-07-07T05:44:16.475Z - info: [0mGET /modules/core/client/config/core.client.route-filter.js [32m200 [0m2.661 ms - -[0m
+
+2019-07-07T05:44:16.477Z - info: [0mGET /modules/core/client/config/core.client.routes.js [32m200 [0m1.860 ms - -[0m
+
+2019-07-07T05:44:16.477Z - info: [0mGET /modules/core/client/controllers/error.client.controller.js [32m200 [0m2.105 ms - 397[0m
+
+2019-07-07T05:44:16.485Z - info: [0mGET /modules/core/client/controllers/header.client.controller.js [32m200 [0m2.225 ms - 687[0m
+
+2019-07-07T05:44:16.486Z - info: [0mGET /modules/core/client/controllers/home.client.controller.js [32m200 [0m2.258 ms - 184[0m
+
+2019-07-07T05:44:16.487Z - info: [0mGET /modules/core/client/directives/auto-focus.client.directive.js [32m200 [0m2.836 ms - 713[0m
+
+2019-07-07T05:44:16.490Z - info: [0mGET /modules/core/client/directives/page-title.client.directive.js [32m200 [0m3.279 ms - -[0m
+
+2019-07-07T05:44:16.491Z - info: [0mGET /modules/core/client/directives/show-errors.client.directive.js [32m200 [0m2.625 ms - -[0m
+
+2019-07-07T05:44:16.493Z - info: [0mGET /modules/core/client/services/interceptors/auth-interceptor.client.service.js [32m200 [0m3.374 ms - -[0m
+
+2019-07-07T05:44:16.494Z - info: [0mGET /modules/core/client/services/menu.client.service.js [32m200 [0m2.000 ms - -[0m
+
+2019-07-07T05:44:16.495Z - info: [0mGET /modules/core/client/services/socket.io.client.service.js [32m200 [0m1.720 ms - -[0m
+
+2019-07-07T05:44:16.496Z - info: [0mGET /modules/users/client/config/users-admin.client.menus.js [32m200 [0m2.362 ms - 347[0m
+
+2019-07-07T05:44:16.500Z - info: [0mGET /modules/users/client/config/users.client.routes.js [32m200 [0m2.726 ms - -[0m
+
+2019-07-07T05:44:16.501Z - info: [0mGET /modules/users/client/config/users-admin.client.routes.js [32m200 [0m4.099 ms - -[0m
+
+2019-07-07T05:44:16.502Z - info: [0mGET /modules/users/client/controllers/admin/list-users.client.controller.js [32m200 [0m2.338 ms - -[0m
+
+2019-07-07T05:44:16.505Z - info: [0mGET /modules/users/client/controllers/admin/user.client.controller.js [32m200 [0m1.833 ms - -[0m
+
+2019-07-07T05:44:16.506Z - info: [0mGET /modules/users/client/controllers/authentication.client.controller.js [32m200 [0m2.059 ms - -[0m
+
+2019-07-07T05:44:16.507Z - info: [0mGET /modules/users/client/controllers/password.client.controller.js [32m200 [0m2.381 ms - -[0m
+
+2019-07-07T05:44:16.509Z - info: [0mGET /modules/users/client/controllers/settings/change-password.client.controller.js [32m200 [0m1.014 ms - -[0m
+
+2019-07-07T05:44:16.511Z - info: [0mGET /modules/users/client/controllers/settings/change-profile-picture.client.controller.js [32m200 [0m2.060 ms - -[0m
+
+2019-07-07T05:44:16.512Z - info: [0mGET /modules/users/client/controllers/settings/edit-profile.client.controller.js [32m200 [0m2.157 ms - -[0m
+
+2019-07-07T05:44:16.515Z - info: [0mGET /modules/users/client/controllers/settings/manage-social-accounts.client.controller.js [32m200 [0m1.755 ms - -[0m
+
+2019-07-07T05:44:16.517Z - info: [0mGET /modules/users/client/controllers/settings/settings.client.controller.js [32m200 [0m3.328 ms - 321[0m
+
+2019-07-07T05:44:16.518Z - info: [0mGET /modules/users/client/directives/password-verify.client.directive.js [32m200 [0m2.225 ms - 858[0m
+
+2019-07-07T05:44:16.518Z - info: [0mGET /modules/users/client/directives/password-validator.client.directive.js [32m200 [0m3.203 ms - -[0m
+
+2019-07-07T05:44:16.521Z - info: [0mGET /modules/users/client/directives/users.client.directive.js [32m200 [0m2.485 ms - 531[0m
+
+2019-07-07T05:44:16.521Z - info: [0mGET /modules/users/client/services/authentication.client.service.js [32m200 [0m2.416 ms - 343[0m
+
+2019-07-07T05:44:16.522Z - info: [0mGET /modules/users/client/services/password-validator.client.service.js [32m200 [0m1.174 ms - 892[0m
+
+2019-07-07T05:44:16.524Z - info: [0mGET /modules/users/client/services/users.client.service.js [32m200 [0m0.877 ms - -[0m
+
+2019-07-07T05:44:16.581Z - info: [0mGET /modules/core/client/views/header.client.view.html [32m200 [0m1.204 ms - -[0m
+
+2019-07-07T05:44:16.582Z - info: [0mGET /modules/core/client/views/home.client.view.html [32m200 [0m1.154 ms - -[0m
+
+2019-07-07T05:44:16.640Z - info: [0mGET /modules/core/client/img/brand/logo.png [32m200 [0m2.323 ms - 24904[0m
+
+2019-07-07T05:44:16.645Z - info: [0mGET /modules/core/client/img/brand/favicon.ico [32m200 [0m4.466 ms - 21238[0m
+
+2019-07-07T05:44:16.941Z - info: [0mGET /manifest.json [32m200 [0m0.826 ms - 370[0m
+
